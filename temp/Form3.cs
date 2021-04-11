@@ -9,6 +9,7 @@ using System.Windows.Forms;
 using Microsoft.Reporting.WinForms;
 using System.Data.OleDb;
 namespace database1
+    hidayath
 {
     public partial class Form3 : Form
     {
